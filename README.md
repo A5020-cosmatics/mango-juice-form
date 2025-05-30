@@ -1,6 +1,6 @@
 # mango-juice-form
 Mango juice sensory evaluation form
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
